@@ -11,10 +11,10 @@ microservice:
   book-service:
     endpoints:
       endpoint:
-        uri: http://BOOK-SERVICE/api/books
+        uri: http://book-service/api/books
   user-service:
     endpoints:
       endpoint:
-        uri: http://USER-SERVICE/api/users   
+        uri: http://user-service/api/users   
     
     
